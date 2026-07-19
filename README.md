@@ -201,4 +201,4 @@ Le module estime la quantité utilisée à partir du pourcentage de charge mémo
 
 ## Licence
 
-Aucune licence n’est actuellement incluse dans le package. Ajoutez un fichier `LICENSE` avant une diffusion publique afin de préciser les conditions d’utilisation, de modification et de redistribution.
+Aucune licence n’est actuellement incluse dans le package.
