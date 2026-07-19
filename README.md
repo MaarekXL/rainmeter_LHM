@@ -30,14 +30,14 @@ Les identifiants de capteurs peuvent varier selon le matériel et l’ordre de d
 
 - Windows 7 ou version ultérieure
 - Rainmeter **4.5.26.3894** ou version ultérieure
-- Libre Hardware Monitor lancé en arrière-plan
+- **Dernière version de Libre Hardware Monitor**, lancée en arrière-plan
 - Plugin **LibreMeter**, inclus dans le package en versions 32 et 64 bits
 - Police **Segoe UI**, fournie avec Windows
 
 ## Installation
 
 1. Installer Rainmeter.
-2. Lancer Libre Hardware Monitor et vérifier que les capteurs sont correctement détectés.
+2. Télécharger et lancer la **dernière version de Libre Hardware Monitor**, puis vérifier que les capteurs sont correctement détectés.
 3. Ouvrir le fichier `OHM_1.rmskin`.
 4. Cliquer sur **Install** dans l’installateur Rainmeter.
 5. Depuis Rainmeter, charger les modules situés dans le dossier `OHM`.
